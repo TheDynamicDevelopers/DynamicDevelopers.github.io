@@ -1,6 +1,6 @@
-<p align="center"><h1>
+<h1><p align="center">
  Welcome to our Hide and Seek App
-</h1></p>
+</p></h1>
 <p align="center">
 Please scan the QR code to download the latest version of our App.
 </p>
