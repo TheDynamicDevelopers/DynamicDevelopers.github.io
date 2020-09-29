@@ -7,4 +7,4 @@ Please scan the QR code to download the latest version of our App.
 <p align="center">
 <img width="300" height="300" src="https://github.com/TheDynamicDevelopers/DynamicDevelopers.github.io/blob/master/QR.png?raw=true">
 </p>
-![<img src="https://github.com/TheDynamicDevelopers/DynamicDevelopers.github.io/blob/master/twitter.png?raw=true">](https://twitter.com/DynamicDevelop5)
+[![Foo](https://github.com/TheDynamicDevelopers/DynamicDevelopers.github.io/blob/master/twitter.png?raw=true)](https://twitter.com/DynamicDevelop5)
