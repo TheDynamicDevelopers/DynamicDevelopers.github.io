@@ -7,7 +7,7 @@ Please scan the QR code to download the latest version of our App.
 <p align="center">
 <img width="300" height="300" src="https://github.com/TheDynamicDevelopers/DynamicDevelopers.github.io/blob/master/QR.png?raw=true">
 </p>
-        <p>Pursuit is our upcoming Hide & Seek game, here's our current releases:</p>
+        <p>here's our current releases:</p>
         <p>
             <ul class="releases">
                 <li>
