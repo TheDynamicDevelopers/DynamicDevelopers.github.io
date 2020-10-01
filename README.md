@@ -20,6 +20,5 @@ Please scan the QR code to download the latest version of our App.
                     </p>
                 </li>
             </ul>
-            <p><a href="https://github.com/uclanteamnan/app-releases/releases">View all releases</a></p>
             
 <p align="center"><a href="https://twitter.com/DynamicDevelop5"><img src="https://github.com/TheDynamicDevelopers/DynamicDevelopers.github.io/blob/master/twitter.png?raw=true" title="Twitter" width="50" height="50" /></a> <a href="https://www.facebook.com/TheDynamicDevelopers1"><img src="https://github.com/TheDynamicDevelopers/DynamicDevelopers.github.io/blob/master/facebook.png?raw=true" title="Twitter" width="50" height="50" /></a></p>
